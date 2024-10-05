@@ -1,1 +1,1 @@
-# LLecture1_Project_Guidance
+# Lecture1_Project_Guidance
